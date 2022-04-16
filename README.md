@@ -1,7 +1,6 @@
 
 # _Data Anslysis_ 
-![App Screenshot](https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/35-1-1024x597.jpg)
-
+<img src="https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/35-1-1024x597.jpg" width="400" height="200" />
 
 **This Folder will show multiple skills and EDA projects for simple and more complex Analysis.**
 
