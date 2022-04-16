@@ -3,6 +3,10 @@
 <img src="https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/35-1-1024x597.jpg" width="400" height="200" />
 
 **This Folder will show multiple skills and EDA projects for simple and more complex Analysis.**
+<br>
+<br>
+_Please note that I did not intend to make long notebooks and cover every aspect of the csv file_<br>
+_I decided to focus in every EDA on different analysis scripts and grpahs to show_
 
 ---
 
